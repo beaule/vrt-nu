@@ -1,2 +1,2 @@
-# vrt-nu
+# sample-app
 Created with CodeSandbox
